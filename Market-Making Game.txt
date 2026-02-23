@@ -1,0 +1,16 @@
+Market-Making Game
+A deck of 50 cards - two O's, two 1's, two 2's etc. all the way up to 2 20's (42 cards), plus a -10, -20, -30, up to -80.
+HINT: The sum of all the numbers in the deck totals +60.
+X teams. All but one team gets 1 card; one team gets 2. Do not share your cards) with other teams.
+1 (oe) will have six cards face down on the table.
+Goal of the game: make a market on the sum of the 6 cards on the table. You should use the Information of the cards in your own hands plus the Information that others are divulging when they trade. The cards will be hipped over two at a time.
+Joe: If no one is or wants to trade, I will step in and make a trade. Note, I will make a profitable trade 75% of the time. The person I trade with, must make a new market once more.
+(Gives you information at a cost)
+Scoring: Each trade settles to the "nal sum of the 6 cards. For example, If you sell "15", and the Anal sum Is "4", you score 11 polnts, and the person who bought "15" from you will lose 11 points.
+Round 1: Everyone has 1 card, and one group has two. None of the table cards are flipped over.
+The team who recelves two cards kicks off the game by making a market 3 points wide. The two numbers represent a bid price and an ask price. The bid Is the price where you are willing to buy, and the ask is the price you are willing to sell. Any of the other teams can buy your ask price or sell your bld price. You must show at least 1 contract, but you can show more size If you want. If you trade, you will be obligated to make the next market. Keep In mind the Anal sum (and your market) can be negativel
+Round 2: Every team gets another private card. Flip over 2 of the cards on the table.
+Markets must be 3 points wide; the team that traded last In the Round 1 starts Round 2.
+Round 3: Every team gets one last private card. Flip over 2 more cards that are on the table, must be 3 points wide; the team that traded last in Round 2 starts Round 3.
+when the last two cards are revealed, the game over.
+team with the highest score at the end wins!
